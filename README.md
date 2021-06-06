@@ -6,18 +6,16 @@
 
 - 문서 버전 : 0.1
 
-
-<br>
-
 <br>
 
 ## 문서 확인 페이지
 
 현재 이 문서는 브라우저를 통해 편리하게 보실 수 있습니다.
 
-[문서 페이지 이동](https://dogoori.github.io/srs-dietlens) 통해 확인해주세요  
+[문서 페이지 이동](https://dogoori.github.io/srs-dietlens) 통해 확인해주세요 
 
-<br>
+> 혹시 페이지에서 문서가 갱신 되지 않는 경우 브라우저 캐시를 삭제해주세요
+
 <br>
 
 
@@ -30,10 +28,21 @@
 npm i docsify-cli -g
 ```
 
-3. 프로젝트 루트에서 아래 명령어를 통해 서버 구동
+3. 아래 명령어를 통해 프로젝트 git clone
+
+```bash
+git clone https://github.com/DoGooRi/srs-dietlens
+```
+
+4. 프로젝트 루트에서 아래 명령어를 통해 서버 구동
 
 ```bash
 docsify serve
 ```
 
-4. 브라우저에서 http://localhost:3000 을 통해 서버 구동 확인
+5. 아래 내용이 정상적으로 출력되면 브라우저에서 http://localhost:3000 을 통해 서버 구동 확인
+
+```bash
+Serving [경로]/srs-dietlens now.
+Listening at http://localhost:3000
+```

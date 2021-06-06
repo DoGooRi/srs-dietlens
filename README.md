@@ -34,7 +34,7 @@ npm i docsify-cli -g
 git clone https://github.com/DoGooRi/srs-dietlens
 ```
 
-4. 프로젝트 루트에서 아래 명령어를 통해 서버 구동
+4. clone 한 프로젝트 경로로 이동 후 아래 명령어를 통해 서버 구동
 
 ```bash
 docsify serve

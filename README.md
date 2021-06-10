@@ -12,12 +12,11 @@
 
 현재 이 문서는 브라우저를 통해 편리하게 보실 수 있습니다.
 
-[문서 페이지 이동](https://dogoori.github.io/srs-dietlens) 통해 확인해주세요 
+[문서 페이지 이동](https://dogoori.github.io/srs-dietlens) 통해 확인해주세요.
 
-> 혹시 페이지에서 문서가 갱신 되지 않는 경우 브라우저 캐시를 삭제해주세요
+> 혹시 페이지에서 문서가 갱신 되지 않는 경우 브라우저 캐시를 삭제해주세요.
 
 <br>
-
 
 ## 참여자를 위한 로컬 서버 설치 및 구동 가이드
 
@@ -46,3 +45,12 @@ docsify serve
 Serving [경로]/srs-dietlens now.
 Listening at http://localhost:3000
 ```
+
+<br>
+
+## 참여자 권장 작업 도구
+
+1. Git Client - [SourceTree](https://www.sourcetreeapp.com/)
+2. Markdown Editor - [Typora](https://typora.io/)
+
+3. Code Editor - [Visual Studio Code](https://code.visualstudio.com/)

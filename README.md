@@ -1,8 +1,8 @@
 # 다이어트 렌즈 SRS 문서
 
-- 관리자 : DoGooRi (정현호)
+- 관리자 : [DoGooRi](https://github.com/DoGooRi) (정현호)
 
-- 참여자 : dhtngus4921 (오수현), kkt9601 (김경태)
+- 참여자 : [dhtngus4921](https://github.com/dhtngus4921) (오수현), [kkt9601](https://github.com/kkt9601) (김경태)
 
 - 문서 버전 : 0.2.5
 
@@ -20,7 +20,7 @@
 
 ## 참여자를 위한 로컬 서버 설치 및 구동 가이드
 
-1. 현재 작업 컴퓨터에 Node.js가 없다면 Node.js를 먼저 설치해주세요 (12.x LTS 추천) [12.x LTS 다운 링크](https://nodejs.org/dist/latest-v12.x/)
+1. 현재 작업 컴퓨터에 Node.js가 없다면 Node.js 설치 (12.x LTS 추천) [12.x LTS 다운 링크](https://nodejs.org/dist/latest-v12.x/)
 2. 아래 명령어를 통해 npm 패키지 설치
 
 ```bash

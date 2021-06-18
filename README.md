@@ -1,8 +1,8 @@
 # 다이어트 렌즈 SRS 문서
 
-- 관리자 : [DoGooRi](https://github.com/DoGooRi) (정현호)
+- 관리자 : [DoGooRi](https://github.com/DoGooRi){:target="_blank"} (정현호)
 
-- 참여자 : [dhtngus4921](https://github.com/dhtngus4921) (오수현), [kkt9601](https://github.com/kkt9601) (김경태)
+- 참여자 : [dhtngus4921](https://github.com/dhtngus4921){:target="_blank"} (오수현), [kkt9601](https://github.com/kkt9601){:target="_blank"} (김경태)
 
 - 문서 버전 : 0.2.5
 
@@ -12,7 +12,7 @@
 
 현재 이 문서는 브라우저를 통해 편리하게 보실 수 있습니다.
 
-[문서 페이지 이동](https://dogoori.github.io/srs-dietlens) 통해 확인해주세요.
+[문서 페이지 이동](https://dogoori.github.io/srs-dietlens){:target="_blank"} 통해 확인해주세요.
 
 > 혹시 페이지에서 문서가 갱신 되지 않는 경우 브라우저 캐시를 삭제해주세요.
 
@@ -20,7 +20,7 @@
 
 ## 참여자를 위한 로컬 서버 설치 및 구동 가이드
 
-1. 현재 작업 컴퓨터에 Node.js가 없다면 Node.js 설치 (12.x LTS 추천) [12.x LTS 다운 링크](https://nodejs.org/dist/latest-v12.x/)
+1. 현재 작업 컴퓨터에 Node.js가 없다면 Node.js 설치 (12.x LTS 추천) [12.x LTS 다운 링크](https://nodejs.org/dist/latest-v12.x/){:target="_blank"}
 2. 아래 명령어를 통해 npm 패키지 설치
 
 ```bash
@@ -50,7 +50,6 @@ Listening at http://localhost:3000
 
 ## 참여자 권장 작업 도구
 
-1. Git Client - [SourceTree](https://www.sourcetreeapp.com/)
-2. Markdown Editor - [Typora](https://typora.io/)
-
-3. Code Editor - [Visual Studio Code](https://code.visualstudio.com/)
+1. Git Client - [SourceTree](https://www.sourcetreeapp.com/){:target="_blank"}
+2. Markdown Editor - [Typora](https://typora.io/){:target="_blank"}
+3. Code Editor - [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}

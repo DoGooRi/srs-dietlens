@@ -2,7 +2,7 @@
 
 - 관리자 : <a href="https://github.com/DoGooRi" target="_blank">DoGooRi</a> (정현호)
 - 참여자 : <a href="https://github.com/dhtngus4921" target="_blank">dhtngus4921</a> (오수현), <a href="https://github.com/kkt9601" target="_blank">kkt9601</a> (김경태)
-- 문서 버전 : 0.2.5
+- 문서 버전 : 0.2.7
 <br>
 
 ## 문서 확인 페이지

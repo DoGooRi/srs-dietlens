@@ -7,6 +7,10 @@
 
 ## 문서 확인 페이지
 
+![page_capture](./img/page_capture.png)
+
+
+
 현재 이 문서는 브라우저를 통해 편리하게 보실 수 있습니다.
 
 <a href="https://dogoori.github.io/srs-dietlens" target="_blank">문서 페이지 이동</a>을 통해 확인해주세요.
